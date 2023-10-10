@@ -33,6 +33,7 @@ The project directory is structured as follows:
 ## Dataset
 
 We use the `training.1600000.processed.noemoticon.csv` dataset, which contains labeled tweets. The dataset is divided into positive (4) and negative (0) sentiments.
+https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ##Model Training
 
